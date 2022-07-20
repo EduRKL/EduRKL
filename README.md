@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Eduardo Lima <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-- 🔭 Atualmente trabalho como confeiteiro
 - 🌱 Estou estudando Java
 
 <div align="center">
