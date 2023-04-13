@@ -1,7 +1,5 @@
 ## Olá! Eu sou o Eduardo Lima <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-- 🌱 Estou estudando Java
-
 <div align="center">
   <a href="https://github.com/EduRKL">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduRKL&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
